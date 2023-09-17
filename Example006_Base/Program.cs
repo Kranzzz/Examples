@@ -13,5 +13,5 @@ if (c > max) max = c;
 if (d > max) max = d;
 if (e > max) max = e;
 
-System.Console.Write("max = ");
-System.Console.WriteLine(max);
+Console.Write("max = ");
+Console.WriteLine(max);
